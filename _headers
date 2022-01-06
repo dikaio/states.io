@@ -11,3 +11,9 @@
 
 /sw.js
   Cache-Control: "public, max-age=0, must-revalidate"
+
+/_nuxt/*
+  Cache-Control: "public, max-age=0, must-revalidate"
+
+https://states.pages.dev/*
+  X-Robots-Tag: noindex

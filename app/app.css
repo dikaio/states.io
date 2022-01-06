@@ -1091,12 +1091,12 @@ select {
   display: none;
 }
 
-.h-40 {
-  height: 10rem;
-}
-
 .h-full {
   height: 100%;
+}
+
+.h-40 {
+  height: 10rem;
 }
 
 .h-10 {
@@ -1164,20 +1164,6 @@ select {
 
 .text-center {
   text-align: center;
-}
-
-.underline {
-  -webkit-text-decoration-line: underline;
-          text-decoration-line: underline;
-}
-
-.decoration-sky-500 {
-  -webkit-text-decoration-color: #0ea5e9;
-          text-decoration-color: #0ea5e9;
-}
-
-.decoration-2 {
-  text-decoration-thickness: 2px;
 }
 
 .antialiased {
