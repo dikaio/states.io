@@ -1,6 +1,6 @@
 import { Link } from 'remix'
-import { motion } from "framer-motion"
-import { Logo } from '~/components/logo'
+import { motion } from 'framer-motion'
+
 export default function Index() {
   return (
     <>
