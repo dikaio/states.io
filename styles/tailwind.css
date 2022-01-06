@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "GothamCondSSm-XLight_Web";
+  src: url('/fonts/GothamCondSSm-XLight_Web.woff2') format('woff2');
+}
+@font-face {
+  font-family: "GothamCondSSm-Light_Web";
+  src: url('/fonts/GothamCondSSm-Light_Web.woff2') format('woff2');
+}
+@font-face {
+  font-family: "GothamCondSSm-Book_Web";
+  src: url('/fonts/GothamCondSSm-Book_Web.woff2') format('woff2');
+}
+@font-face {
+  font-family: "GothamCondSSm-Medium_Web";
+  src: url('/fonts/GothamCondSSm-Medium_Web.woff2') format('woff2');
+}
+@font-face {
+  font-family: "GothamCondSSm-Bold_Web";
+  src: url('/fonts/GothamCondSSm-Bold_Web.woff2') format('woff2');
+}
+@font-face {
+  font-family: "GothamCondSSm-Black_Web";
+  src: url('/fonts/GothamCondSSm-Black_Web.woff2') format('woff2');
+}
+@font-face {
+  font-family: "GothamRndSSm-Medium_Web";
+  src: url('/fonts/GothamRndSSm-Medium_Web.woff2') format('woff2');
+}
+@font-face {
+  font-family: "GothamRndSSm-LightItalic_Web";
+  src: url('/fonts/GothamRndSSm-LightItalic_Web.woff2') format('woff2');
+}
+@font-face {
+  font-family: "GothamRndSSm-Light_Web";
+  src: url('/fonts/GothamRndSSm-Light_Web.woff2') format('woff2');
+}
+@font-face {
+  font-family: "GothamRndSSm-BookItalic_Web";
+  src: url('/fonts/GothamRndSSm-BookItalic_Web.woff2') format('woff2');
+}
+@font-face {
+  font-family: "GothamRndSSm-Book_Web";
+  src: url('/fonts/GothamRndSSm-Book_Web.woff2') format('woff2');
+}
+@font-face {
+  font-family: "GothamRndSSm-BoldItalic_Web";
+  src: url('/fonts/GothamRndSSm-BoldItalic_Web.woff2') format('woff2');
+}
+@font-face {
+  font-family: "GothamRndSSm-Bold_Web";
+  src: url('/fonts/GothamRndSSm-Bold_Web.woff2') format('woff2');
+}
